@@ -1,0 +1,54 @@
+2023-09-21 23:26:31,988:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-21 23:26:31,989:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-21 23:26:31,989:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-21 23:26:31,989:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-22 01:21:08,719:WARNING:C:\Users\rodri\AppData\Local\Temp\ipykernel_5204\1784386070.py:5: FutureWarning: In a future version of pandas all arguments of Series.sort_values will be keyword-only.
+  df_plot_24_2 = df_plot_24_2.sort_values(["Type", "AdoptionSpeed"],ascending=[True, True])
+
+2023-09-22 02:38:59,962:WARNING:C:\Users\rodri\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\numpy\lib\histograms.py:906: RuntimeWarning: invalid value encountered in divide
+  return n/db/n.sum(), bin_edges
+
+2023-09-22 02:38:59,963:WARNING:C:\Users\rodri\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\numpy\lib\histograms.py:906: RuntimeWarning: invalid value encountered in divide
+  return n/db/n.sum(), bin_edges
+
+2023-09-22 02:38:59,964:WARNING:C:\Users\rodri\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\numpy\lib\histograms.py:906: RuntimeWarning: invalid value encountered in divide
+  return n/db/n.sum(), bin_edges
+
+2023-09-22 02:38:59,964:WARNING:C:\Users\rodri\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\numpy\lib\histograms.py:906: RuntimeWarning: invalid value encountered in divide
+  return n/db/n.sum(), bin_edges
+
+2023-09-22 02:38:59,965:WARNING:C:\Users\rodri\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\numpy\lib\histograms.py:906: RuntimeWarning: invalid value encountered in divide
+  return n/db/n.sum(), bin_edges
+
+2023-09-22 02:38:59,965:WARNING:C:\Users\rodri\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\numpy\lib\histograms.py:906: RuntimeWarning: invalid value encountered in divide
+  return n/db/n.sum(), bin_edges
+
+2023-09-22 02:38:59,966:WARNING:C:\Users\rodri\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\numpy\lib\histograms.py:906: RuntimeWarning: invalid value encountered in divide
+  return n/db/n.sum(), bin_edges
+
+2023-09-22 02:38:59,966:WARNING:C:\Users\rodri\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\numpy\lib\histograms.py:906: RuntimeWarning: invalid value encountered in divide
+  return n/db/n.sum(), bin_edges
+
+2023-09-22 02:38:59,969:WARNING:C:\Users\rodri\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\numpy\lib\histograms.py:906: RuntimeWarning: invalid value encountered in divide
+  return n/db/n.sum(), bin_edges
+
+2023-09-23 07:47:48,513:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-23 07:47:48,513:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-23 07:47:48,513:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-23 07:47:48,513:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-23 09:58:12,184:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-23 09:58:12,184:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-23 09:58:12,184:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-23 09:58:12,184:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
